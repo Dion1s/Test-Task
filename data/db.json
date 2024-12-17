@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "count": 10,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "1kg",
+      "imageUrl": "https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png",
+      "comments": []
+    },
+    {
+      "id": 1734439923621,
+      "name": "DVD",
+      "count": 15,
+      "size": {
+        "width": 0,
+        "height": 0
+      },
+      "weight": "100",
+      "imageUrl": "https://st4.depositphotos.com/7507140/28673/v/450/depositphotos_286732476-stock-illustration-dvd-disc-icon-simple-flat.jpg",
+      "comments": []
+    },
+    {
+      "id": 1734443978171,
+      "name": "sofa",
+      "count": 10,
+      "size": {
+        "width": 600,
+        "height": 500
+      },
+      "weight": "50",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/123/123332.png",
+      "comments": []
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "description": "Great product!",
+      "date": "2024-12-17T14:00:00"
+    },
+    {
+      "id": 1734440358948,
+      "productId": 1,
+      "description": "first comment",
+      "date": "2024-12-17T12:59:18.948Z"
+    },
+    {
+      "id": 1734440950337,
+      "productId": 1734439923621,
+      "description": "dec.....",
+      "date": "2024-12-17T13:09:10.337Z"
+    }
+  ]
+}
